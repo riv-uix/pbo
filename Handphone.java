@@ -8,7 +8,7 @@ public class Handphone {
     String getJenisHP(){
         return jenis_hp;
     }
-    long getTahunPembuatan(){
+    int getTahunPembuatan(){
         return tahun_pembuatan;
     }
     public static void main(String[] args){
